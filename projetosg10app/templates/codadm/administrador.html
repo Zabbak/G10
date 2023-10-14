@@ -1,0 +1,67 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>administrador</title>
+    <link rel="stylesheet" href="administrador.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div cass="logo-container">
+            <a href="paginicial.html">
+                <img src="{% static './codigosadm/img/gotas-de-flor-com-amor-removebg-preview.png'%}" alt="Logo" class="logo">
+            </a>
+        </div>
+        <ul class="nav-links">
+            <li>
+                <a href="paginicial.html">Página Inicial</a>
+            </li>
+            <li>
+                <a href="apadrinhamento.html">Sobre o Apadrinhamento</a>
+            </li>
+            <li>
+                <a href="noticias.html">Notícias</a>
+            </li>
+            <li>
+                <a>Sair</a>
+            </li>
+        </ul>
+    </nav>
+    <br>
+    <div class="outer-container">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    Alunos
+                </div>
+                <div class="col">
+                    Padrinhos
+                </div>
+                <div class="col">
+                    Cronograma
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Voluntários
+                </div>
+                <div class="col">
+                    Funcionários
+                </div>
+                <div class="col">
+                    <a href="cadastro.html">Cadastro</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Administradores
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body> 
+</html>
