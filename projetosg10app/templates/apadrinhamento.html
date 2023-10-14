@@ -5,28 +5,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Padrinhos</title>
-    <link rel="stylesheet" href="apadrinhamento.css">
+    <link rel="stylesheet" href="{% static 'apadrinhamento.css' %}">
 </head>
 
 <body>
     <nav class="navbar">
         <div cass="logo-container">
-            <a href="paginicial.html">
-                <img src="./img/gotas-de-flor-com-amor-removebg-preview.png" alt="Logo" class="logo">
+            <a href="/">
+                <img src="{% static './codigosadm/img/gotas-de-flor-com-amor-removebg-preview.png' %}" alt="Logo" class="logo">
             </a>
         </div>
         <ul class="nav-links">
             <li>
-                <a href="paginicial.html">Página Inicial</a>
+                <a href="/">Página Inicial</a>
             </li>
             <li>
-                <a href="apadrinhamento.html">Sobre o Apadrinhamento</a>
+                <a href="/apadrinhamento">Sobre o Apadrinhamento</a>
             </li>
             <li>
-                <a href="noticias.html">Notícias</a>
+                <a href="/noticias">Notícias</a>
             </li>
             <li>
-                <a href="cadastroelogin.html">Login</a>
+                <a href="/cadastroelogin">Login</a>
             </li>
         </ul>
     </nav>
