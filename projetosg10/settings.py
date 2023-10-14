@@ -31,14 +31,14 @@ ALLOWED_HOSTS = ['127.0.0.1','projetosg10.azurewebsites.net']
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
+    'projetosg10app.apps.Projetosg10AppConfig',
     'whitenoise.runserver_nostatic',
+    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'projetosg10app.apps.Projetosg10AppConfig',
 ]
 
 MIDDLEWARE = [
@@ -123,5 +123,4 @@ STATIC_URL = 'static/'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
