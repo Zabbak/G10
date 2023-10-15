@@ -20,6 +20,6 @@ Nossa plataforma vai ser na linguagem Python no Framework Django.
 
 # LINKS
 
-Link do projeto do jira: https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog
+#### [Link do projeto no JIRA](https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog)
 
-Link do projeto do LO-FI: https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1
+#### [Protótipo no Figma (Em desenvolvimento)](https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1)
