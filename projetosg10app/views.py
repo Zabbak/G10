@@ -39,3 +39,8 @@ def alunos(request):
     }
     return render(request, 'alunos.html', context)
 
+def cronograma(request):
+    context = {
+    }
+    return render(request, 'cronograma.html', context)
+
