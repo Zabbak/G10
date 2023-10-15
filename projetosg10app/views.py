@@ -1,4 +1,4 @@
-from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth import authenticate
 from django.http import HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
 
@@ -33,4 +33,9 @@ def administrador(request):
     context = {
     }
     return render(request, 'administrador.html', context)
+
+def alunos(request):
+    context = {
+    }
+    return render(request, 'alunos.html', context)
 
