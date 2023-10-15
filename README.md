@@ -1,7 +1,7 @@
 # JADIM DO GOTAS
 
 ## GRUPO:
-#PARTICIPANTES DE CC
+##PARTICIPANTES DE CC
 * JOÃO SAMPAIO
 * MARCELO CAVALCANTI
 * ARTUR SOUTO
@@ -10,9 +10,9 @@
 
 ## DESCRIÇÃO:
 
-O projeto JADIM DO GOTAS consiste em uma plataforma de acesso para os voluntarios, padrinhos e administradores da ONG: GOTAS DE FLOR COM AMOR terem um controle e uma melhor gestão da ONG e melhorar o contato com as crianças através da plataforma que exibirá informações sobre atividades que as crianças estão envolvidas, um feedback sobre suas performances nas atividades na ong, os voluntarios conseguiram adicionar informações em tempo real sobre os alunos e conseguiram ver de perto seu desempenho.
+O projeto JADIM DO GOTAS consiste em uma plataforma de acesso para os voluntarios, padrinhos e administradores da ONG: GOTAS DE FLOR COM AMOR terem um controle e uma melhor gestão da ONG e melhorar o contato com as crianças através da plataforma. Ela exibirá informações sobre atividades que as crianças estão envolvidas e um feedback sobre suas performances nas atividades na ONG. Os voluntarios conseguiram adicionar informações em tempo real sobre os alunos e conseguiram ver de perto seu desempenho.
 
-#Tecnologias utilizadas
+##Tecnologias utilizadas
 Nossa plataforma vai ser na linguagem Python no Framework Django.
 
 Link do projeto do jira: https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog
