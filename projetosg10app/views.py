@@ -44,3 +44,6 @@ def cronograma(request):
     }
     return render(request, 'cronograma.html', context)
 
+def cadastropy(request):
+    return render(request, 'cadastropy.html')
+
