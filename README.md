@@ -15,6 +15,7 @@
 O projeto JADIM DO GOTAS consiste em uma plataforma de acesso para os voluntarios, padrinhos e administradores da ONG: GOTAS DE FLOR COM AMOR terem um controle e uma melhor gestão da ONG e melhorar o contato com as crianças através da plataforma. Ela exibirá informações sobre atividades que as crianças estão envolvidas e um feedback sobre suas performances nas atividades na ONG. Os voluntarios conseguiram adicionar informações em tempo real sobre os alunos e conseguiram ver de perto seu desempenho.
 
 # Tecnologias utilizadas
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
 Nossa plataforma vai ser na linguagem Python no Framework Django.
 
