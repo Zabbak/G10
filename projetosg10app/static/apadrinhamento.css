@@ -31,7 +31,6 @@ body {
 
 .nav-links li {
     margin-right: 20px;
-    border: 1.5px solid black;
     border-radius: 30px;
     padding: 5px;
 }
@@ -45,7 +44,7 @@ ul {
 }
 
 a {
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -72,7 +71,7 @@ a {
     font-size: 20px; 
     padding: 10px 20px;
     border-radius: 30px;
-    border: 2px solid black; 
+    border: 2px solid rgb(255, 0, 0); 
 }
 .gotas{
     margin: 20px; 
