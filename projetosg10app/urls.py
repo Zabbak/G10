@@ -10,6 +10,5 @@ urlpatterns = [
     path("cadastro", views.cadastro, name="cadastro"),
     path("alunos", views.alunos, name="alunos"),
     path("cronograma", views.cronograma, name="cronograma"),
-    path('cadastropy', views.cadastropy, name='cadastropy'),
 
 ]
