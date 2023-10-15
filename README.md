@@ -20,6 +20,16 @@ Nossa plataforma vai ser na linguagem Python no Framework Django.
 
 # LINKS
 
-#### [Link do projeto no JIRA](https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog)
+* #### [Link do projeto no JIRA](https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog)
 
-#### [Protótipo no Figma (Em desenvolvimento)](https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1)
+* #### [Protótipo no Figma (Em desenvolvimento)](https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1)
+
+# JIRA
+
+* QUADRO SPRINT
+![image](https://github.com/ArturSouto/G10/assets/80278821/5fb727e3-ecbd-435d-8e05-8393885f5f12)
+
+* BACKLOG
+![image](https://github.com/ArturSouto/G10/assets/80278821/d97338da-1cf4-4a75-b362-083c0282059a)
+
+
