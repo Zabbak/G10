@@ -32,4 +32,3 @@ def cadastro(request):
 def administrador(request):
     context = {
     }
-    return render(request, 'administrador.html', context)

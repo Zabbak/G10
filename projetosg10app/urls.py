@@ -5,8 +5,8 @@ from . import views
 urlpatterns = [
     path("", views.paginainicial, name="paginainicial"),
     path("apadrinhamento", views.apadrinhamento, name="apadrinhamento"),
-    path("noticias", views.apadrinhamento, name="noticias"),
-    path("cadastroelogin", views.apadrinhamento, name="cadastroelogin"),
-    path("administrador", views.apadrinhamento, name="administrador"),
-    path("cadastro", views.apadrinhamento, name="cadastro"),
+    path("noticias", views.noticias, name="noticias"),
+    path("cadastroelogin", views.cadastroelogin, name="cadastroelogin"),
+    path("administrador", views.administrador, name="administrador"),
+    path("cadastro", views.cadastro, name="cadastro"),
 ]
