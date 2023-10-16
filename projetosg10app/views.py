@@ -49,9 +49,10 @@ def usuarios(request):
         nome = request.POST.get('nome')
         senha = request.POST.get('senha')
         email = request.POST.get('email')
+        tipologin = request.POST.get('tipologin')
 
         if nome and senha:
-            usuario = Usuarios(nome=nome, senha=senha, email=email)
+            usuario = Usuarios(nome=nome, senha=senha, email=email, opcao=tipologin)
             usuario.save()
 
             return redirect('administrador')

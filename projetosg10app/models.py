@@ -4,3 +4,4 @@ class Usuarios(models.Model):
     nome = models.CharField(max_length=100)
     senha = models.CharField(max_length=100)
     email = models.EmailField()
+    tipologin = models.Choices

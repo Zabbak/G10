@@ -42,6 +42,13 @@
 <form action="{% url 'usuarios' %}" method="post">
     {% csrf_token %}
     <div class="background">
+        <select class="form-select" aria-label="tipologin" name="tipologin">
+            <option selected>---</option>
+            <option value="1">Administrador</option>
+            <option value="2">Padrinho</option>
+            <option value="3">Voluntário</option>
+          </select>
+          <br>
         <div class="mb-3">
             <input type="text" class="form-control" id="nome" name="nome" placeholder="Nome">
             <label for="nome" class="form-label"></label>
