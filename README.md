@@ -41,13 +41,17 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 
 * #### [Protótipo no Figma (Em desenvolvimento)](https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1)
 * #### [Diagrama de atividades no Miro](https://miro.com/app/board/uXjVNaIl8W4=/?share_link_id=483345732330)
+* #### [Azure](https://projetosg10.azurewebsites.net/)
 # JIRA
 
 * QUADRO SPRINT
-![image](https://github.com/ArturSouto/G10/assets/80278821/5fb727e3-ecbd-435d-8e05-8393885f5f12)
+(![image](https://github.com/ArturSouto/G10/assets/80278821/843878bf-07c4-47f2-961f-999a7fc35cbb)
+
 
 * BACKLOG
-![image](https://github.com/ArturSouto/G10/assets/80278821/d97338da-1cf4-4a75-b362-083c0282059a)
+![image](https://github.com/ArturSouto/G10/assets/80278821/2553539a-a34e-4a98-b909-68bef9172712)
+
+
 
 # Diagrama de Atividades
 
