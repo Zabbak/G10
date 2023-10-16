@@ -43,7 +43,31 @@ a{
  } 
 
  .container {
-    display: grid;
-    place-items: center;
-  }
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.centered-content {
+    text-align: center;
+}
+
+.list-group {
+    list-style: none;
+    padding: 0;
+}
+
+.list-group-item {
+    background-image:linear-gradient(45deg,rgb(252,252,99),rgb(247, 187, 119),rgb(252,252,99));
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    margin-bottom: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+}
+
   
