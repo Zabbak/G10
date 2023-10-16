@@ -49,4 +49,9 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 * BACKLOG
 ![image](https://github.com/ArturSouto/G10/assets/80278821/d97338da-1cf4-4a75-b362-083c0282059a)
 
+# Diagrama de Atividades
+
+![image](https://github.com/ArturSouto/G10/assets/80278821/a212b44b-de2e-4c42-9a14-9363618f2272)
+
+
 
