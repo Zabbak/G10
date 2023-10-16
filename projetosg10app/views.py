@@ -44,4 +44,7 @@ def cronograma(request):
     }
     return render(request, 'cronograma.html', context)
 
-
+def usuarios(request):
+    context = {
+    }
+    return render(request, 'usuarios.html', context)
