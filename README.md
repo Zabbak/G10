@@ -45,10 +45,13 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 # JIRA
 
 * QUADRO SPRINT
-![image](https://github.com/ArturSouto/G10/assets/80278821/5fb727e3-ecbd-435d-8e05-8393885f5f12)
+(![image](https://github.com/ArturSouto/G10/assets/80278821/843878bf-07c4-47f2-961f-999a7fc35cbb)
+
 
 * BACKLOG
-![image](https://github.com/ArturSouto/G10/assets/80278821/d97338da-1cf4-4a75-b362-083c0282059a)
+![image](https://github.com/ArturSouto/G10/assets/80278821/2553539a-a34e-4a98-b909-68bef9172712)
+
+
 
 # Diagrama de Atividades
 
