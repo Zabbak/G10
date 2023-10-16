@@ -41,3 +41,9 @@ a{
     color: black; 
     text-decoration: none;
  } 
+
+ .container {
+    display: grid;
+    place-items: center;
+  }
+  
