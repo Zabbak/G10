@@ -41,26 +41,13 @@
         <h3 class="checkbox">
             Você é um:
         </h3>
-        <div class="form-check"style="display: flex; flex-direction: column; justify-content: start; align-items: center;">
-          <div class="form-check">
-            <input type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
-            <label class="form-check-label" for="exampleRadios1">
-              Voluntário
-            </label>
-          </div>
-          <div class="form-check">
-            <input type="radio" name="exampleRadios" id="exampleRadios1" value="option3" checked>
-            <label class="form-check-label" for="exampleRadios2">
-              Padrinho
-            </label>
-            </div>
-                <div class="form-check">
-                <input type="radio" name="exampleRadios" id="exampleRadios1" value="option4" checked>
-                <label class="form-check-label" for="exampleRadios3">
-                    Administrador
-                </label>
-                </div>
-
+        <select class="form-select" aria-label="Default select example">
+            <option selected>---</option>
+            <option value="1">Administrador</option>
+            <option value="2">Padrinho</option>
+            <option value="3">Voluntário</option>
+          </select>
+          <br>
         <input type="text" placeholder="Nome">
         <br> 
         <input type="password" placeholder="Senha">
