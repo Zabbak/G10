@@ -1,4 +1,4 @@
-# JADIM DO GOTAS
+# JARDIM DO GOTAS
 
 ## GRUPO:
 
