@@ -19,6 +19,10 @@ O projeto JADIM DO GOTAS consiste em uma plataforma de acesso para os voluntario
 
 Nossa plataforma vai ser na linguagem Python no Framework Django.
 
+#BUG TRACKER
+![image](https://github.com/ArturSouto/G10/assets/134516887/4cfce96f-a61e-46ce-9550-50e66165048d)
+
+
 # LINKS
 
 * #### [Link do projeto no JIRA](https://kabbaz.atlassian.net/jira/software/projects/G10/boards/2/backlog)
