@@ -1,6 +1,7 @@
 from django.contrib.auth import authenticate
-from django.http import HttpResponse, JsonResponse
+from django.http import HttpResponseRedirect, JsonResponse
 from django.shortcuts import redirect, render
+from .models import Usuarios
 
 
 # Create your views here.
@@ -30,9 +31,8 @@ def cadastro(request):
     return render(request, 'cadastro.html', context)
 
 def administrador(request):
-    context = {
-    }
-    return render(request, 'administrador.html', context)
+    
+    return render(request, 'administrador.html')
 
 def alunos(request):
     context = {
@@ -45,6 +45,16 @@ def cronograma(request):
     return render(request, 'cronograma.html', context)
 
 def usuarios(request):
-    context = {
-    }
-    return render(request, 'usuarios.html', context)
+    if request.method == 'POST':
+        nome = request.POST.get('nome')
+        senha = request.POST.get('senha')
+        email = request.POST.get('email')
+
+        if nome and senha:
+            usuario = Usuarios(nome=nome, senha=senha, email=email)
+            usuario.save()
+
+            return redirect('administrador')
+        
+    usuarios = Usuarios.objects.all()
+    return render(request, 'cadastro.html', {'usuarios': usuarios})
