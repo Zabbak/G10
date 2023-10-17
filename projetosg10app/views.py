@@ -33,6 +33,8 @@ def cadastro(request):
 def administrador(request):
     
     return render(request, 'administrador.html')
+def errologin(request):
+    return render(request, 'errologin.html')
 
 def alunos(request):
     context = {
@@ -55,7 +57,24 @@ def usuarios(request):
             usuario = Usuarios(nome=nome, senha=senha, email=email, tipologin=tipologin)
             usuario.save()
 
-            return redirect('administrador')
+            return redirect('cadastroelogin')
         
     usuarios = Usuarios.objects.all()
     return render(request, 'cadastro.html', {'usuarios': usuarios})
+
+def cadastroelogin(request):
+    if request.method == 'POST':
+        email = request.POST.get('email')
+        senha = request.POST.get('senha')
+
+        if email and senha:
+            try:
+                usuario = Usuarios.objects.get(email=email, senha=senha)
+                return redirect('administrador')
+
+            except Usuarios.DoesNotExist:
+                # Usuário não encontrado, ou senha incorreta
+                error_message = "Nome de usuário ou senha incorretos."
+                return render(request, 'errologin.html', {'error_message': error_message})
+
+    return render(request, 'cadastroelogin.html')
