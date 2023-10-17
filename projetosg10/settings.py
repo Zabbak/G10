@@ -80,15 +80,8 @@ WSGI_APPLICATION = 'projetosg10.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'banco1' ,
-        'USER': 'Artur Souto',
-        'PASSWORD': '1234',
-        'HOST': 'projeto-g10.database.windows.net',
-        'PORT': '',
-        'OPTIONS': {
-            'driver': 'ODBC Driver 17 for SQL Server',  # Use o driver correto
-        },
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
