@@ -52,7 +52,7 @@ def usuarios(request):
         tipologin = request.POST.get('tipologin')
 
         if nome and senha:
-            usuario = Usuarios(nome=nome, senha=senha, email=email, opcao=tipologin)
+            usuario = Usuarios(nome=nome, senha=senha, email=email, tipologin=tipologin)
             usuario.save()
 
             return redirect('administrador')
