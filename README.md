@@ -43,7 +43,7 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 * #### [Diagrama de atividades no Miro](https://miro.com/app/board/uXjVNaIl8W4=/?share_link_id=483345732330)
 * #### [Azure](https://projetosg10.azurewebsites.net/)
 * #### [Screencast (LO-FI)](https://www.youtube.com/watch?v=k4ZHAhGwqZ4&ab_channel=MarceloCavalcanti)
-* #### [Screencast (LO-FI)](https://https://youtu.be/mJr05934_hI)
+* #### [Screencast (SITE)](https://https://youtu.be/mJr05934_hI)
 # JIRA
 
 * QUADRO SPRINT
