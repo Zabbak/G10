@@ -78,3 +78,8 @@ def cadastroelogin(request):
                 return render(request, 'errologin.html', {'error_message': error_message})
 
     return render(request, 'cadastroelogin.html')
+
+def setadm(request):
+    context = {
+    }
+    return render(request, 'setadm.html', context)

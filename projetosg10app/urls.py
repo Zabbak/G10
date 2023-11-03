@@ -12,6 +12,7 @@ urlpatterns = [
     path('cronograma', views.cronograma, name='cronograma'),
     path('usuarios/', views.usuarios, name='usuarios'),
     path('errologin', views.errologin, name='errologin'),
+    path('setadm', views.setadm, name='setadm'),
     
 
 ]
