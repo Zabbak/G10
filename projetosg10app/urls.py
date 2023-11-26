@@ -16,6 +16,4 @@ urlpatterns = [
     path('noticiaslog', views.noticiaslog, name='noticiaslog'),
     path('padrinhoslog', views.padrinhoslog, name='padrinhoslog'),
     
-    
-
 ]
