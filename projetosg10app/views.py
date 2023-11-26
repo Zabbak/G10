@@ -83,3 +83,12 @@ def setadm(request):
     context = {
     }
     return render(request, 'setadm.html', context)
+
+def noticiaslog(request):
+    context = {
+    }
+    return render(request, 'noticiaslog.html', context)
+def padrinhoslog(request):
+    context = {
+    }
+    return render(request, 'padrinhoslog.html', context)

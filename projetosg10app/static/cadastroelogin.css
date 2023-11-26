@@ -40,6 +40,7 @@ img{
     align-items: center;
     justify-content: space-between;
     padding: 16px;
+    background-color:#C52F88;
 }
 .logo-container {
     display: flex;

@@ -13,6 +13,9 @@ urlpatterns = [
     path('usuarios/', views.usuarios, name='usuarios'),
     path('errologin', views.errologin, name='errologin'),
     path('setadm', views.setadm, name='setadm'),
+    path('noticiaslog', views.noticiaslog, name='noticiaslog'),
+    path('padrinhoslog', views.padrinhoslog, name='padrinhoslog'),
+    
     
 
 ]

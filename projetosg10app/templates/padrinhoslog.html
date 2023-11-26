@@ -4,26 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Setadm</title>
+    <title>Padrinhos</title>
+    <link rel="stylesheet" href="{% static 'apadrinhamento.css' %}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" rel="stylesheet">
-    <link rel="stylesheet" href="{% static 'alunos.css' %}">
-</head>
 <body>
     <nav class="navbar">
         <div cass="logo-container">
-            <a href="/administrador">
+            <a href="/">
                 <img src="{% static './codigosadm/img/home branco@4x.png'%}" alt="Logo" class="logo">
             </a>
         </div>
         <ul class="nav-links">
-            <li> <a href="/administrador">
+            <li> <a href="/">
                 <button type="button" class="btn btn-light">Início</button>
             </a>
-            </li>
-            <li>
-                <a href="/padrinhoslog">
-                    <button type="button" class="btn btn-light">Sobre o Apadrinhamento</button>
-                </a>
             </li>
             <li>
                 <a href="/noticiaslog">
@@ -34,22 +28,25 @@
                 <a href="/">
                     <img src="{% static './codigosadm/img/log out branco@4x.png' %}" alt="Logo" width="50" height="50">
                 </a>
+                </a>
             </li>
         </ul>
     </nav>
-    <br>
-    <div class="container">
-        <div style="width: 500px;" class="centered-content">
-            <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action" >João Silva Santos <button button type="button" class="btn btn-outline-danger" style="float: right;">X</button></a>
-                <a href="#" class="list-group-item list-group-item-action">Maria Oliveira Costa <button button type="button" class="btn btn-outline-danger" style="float: right;">X</button></a>
-                <a href="#" class="list-group-item list-group-item-action">Pedro Almeida Rodrigues <button button type="button" class="btn btn-outline-danger" style="float: right;">X</button></a>
-                <a href="#" class="list-group-item list-group-item-action">Ana Pereira Gomes<button button type="button" class="btn btn-outline-danger" style="float: right;">X</button></a>
-              </div>
-        </div>
-      </div>
-      
-      
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <div class="centro">
+        <div class="opcoes">
+            <a>O programa de Apadrinhamento do Gotas de Flor é o mais importante do ponto de vista sócio-educativo para todas as partes envolvidas. Com o contato próximo da Madrinha ou Padrinho com a criança, surgem ótimos exemplos de cidadania, exemplos esses que serão carregados por toda a vida.</a>
+            <br>
+            <a href="opcoes">Como Madrinha ou Padrinho você terá um contato próximo com a criança ou jovem escolhido! A melhor parte é que você irá acompanhar o crescimento e progresso dele ou dela, fazendo visitas na instituição e trocando e-mails.
+                É uma experiência de envolvimento pessoal muito rica para todos!</a>
+                <br>
+                <a href="opcoes">Com contribuições mensais fixas a partir de R$ 50 você nos auxilia a cobrir o custo por criança que atualmente é de R$538 por mês, mas o principal é que você ajuda a fazer alguém mais feliz
+                </a>
+        </div>
+    </div>
+    <br>
+    <div class="gotas">
+        <a href="https://gotasdeflor.org.br/", style="color: rgb(4, 0, 255);">Para saber mais, Clique aqui!</a>
+    </div>
 </body> 
 </html>
