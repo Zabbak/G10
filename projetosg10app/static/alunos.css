@@ -60,7 +60,7 @@ a{
 }
 
 .list-group-item {
-    background-image:linear-gradient(45deg,rgb(252,252,99),rgb(247, 187, 119),rgb(252,252,99));
+    background-color:#C52F88;
     border: 1px solid #dee2e6;
     border-radius: 0.25rem;
     margin-bottom: 5px;
