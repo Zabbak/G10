@@ -43,26 +43,3 @@ a{
     color: black; 
     text-decoration: none;
  } 
-/*
- .centro{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-}
-
-.opcoes {
-    display: flex;
-    margin-left: 170px;
-}
-
-.opcoes a {
-    margin-right: 150px;
-    text-decoration: none;
-    color: black;
-    font-size: 50px;
-    padding: 10px;
-    border: 3px solid black; 
-    border-radius: 60px;
-}
-*/
