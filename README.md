@@ -59,3 +59,10 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 # Diagrama de Atividades
 
 ![image](https://github.com/ArturSouto/G10/assets/80278821/a212b44b-de2e-4c42-9a14-9363618f2272)
+
+
+# Pair Programming SR2
+
+Experimentamos a programação em par no SR1 e demos continuidade no SR2, usamos esta abordagem onde os dois programadores colaboram facilitando o desenvolvimento do projeto. Percebemos os benefícios dessa prática no SR1 e demos continuidade ao trabalho mesmo com menos um no grupo onde nos dividimos formando uma dupla e outro só e iamos alternando as duplas A nossa comunicação já era boa desde o SR1 e aprimoramos ela nesse SR2 onde isso facilitou o processo de desenvolvimento onde por muitas vezes gerou debate sobre o que iamos utilizar ou por onde começar, mas no final o grupo ficou em harmonia.
+<br>
+A divisão de papéis das duplas melhorou a qualidade e reduziu erros por mais que um estava sozinho, mas quando fomos alternando as duplas a dinâmica ficou muito interessante. Além disso, nos fortaleceu como grupo e abriu espaço para novos tipos de dinâmica na qual em alguns momentos ficamos programando em trio. Ao final, o código é mais eficiente e conseguimos maximizar o tempo de produção. A experiência destacou a eficácia da colaboração intensiva no desenvolvimento de software.
