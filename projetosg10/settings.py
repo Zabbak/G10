@@ -31,7 +31,7 @@ CSRF_TRUSTED_ORIGINS = ['https://*.azurewebsites.net','https://*.127.0.0.1', 'ht
 # Application definition
 
 INSTALLED_APPS = [
-    'jardimdogotasapp.apps.jardimdogotasAppConfig',
+    'jardimdogotas.apps.jardimdogotasAppConfig',
     'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
