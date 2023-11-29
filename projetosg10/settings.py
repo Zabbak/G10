@@ -31,7 +31,7 @@ CSRF_TRUSTED_ORIGINS = ['https://*.azurewebsites.net','https://*.127.0.0.1', 'ht
 # Application definition
 
 INSTALLED_APPS = [
-    'projetosg10app.apps.Projetosg10AppConfig',
+    'jardimdogotasapp.apps.jardimdogotasAppConfig',
     'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -54,7 +54,7 @@ MIDDLEWARE = [
 
 SESSIONS_ENGINE = 'django.contrib.sessions.backends.db'
 
-ROOT_URLCONF = 'projetosg10.urls'
+ROOT_URLCONF = 'jardimdogotas.urls'
 
 TEMPLATES = [
     {
@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'projetosg10.wsgi.application'
+WSGI_APPLICATION = 'jardimdogotas.wsgi.application'
 
 
 # Database
