@@ -15,5 +15,6 @@ urlpatterns = [
     path('setadm', views.setadm, name='setadm'),
     path('noticiaslog', views.noticiaslog, name='noticiaslog'),
     path('padrinhoslog', views.padrinhoslog, name='padrinhoslog'),
+    path('apadrinhados', views.apadrinhados, name='apadrinhados'),
     
 ]

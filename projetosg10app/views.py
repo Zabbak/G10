@@ -92,3 +92,7 @@ def padrinhoslog(request):
     context = {
     }
     return render(request, 'padrinhoslog.html', context)
+def apadrinhados(request):
+    context = {
+    }
+    return render(request, 'apadrinhados.html', context)
