@@ -43,6 +43,7 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 * #### [Azure](https://projetosg10.azurewebsites.net/)
 * #### [Screencast (LO-FI)](https://www.youtube.com/watch?v=k4ZHAhGwqZ4&ab_channel=MarceloCavalcanti)
 * #### [Screencast (SITE)](https://www.youtube.com/watch?v=mJr05934_hI&ab_channel=MarceloCavalcanti)
+* #### [Protótipo de media Figma](https://www.figma.com/file/HKe95nqr5JNgQRa7anqesd/Wireframe-Baixa-fidelidade?type=design&node-id=0-1&mode=design&t=aohxbTWciD9Hi2yd-0)
 # JIRA
 
 * QUADRO SPRINT
@@ -54,6 +55,17 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 ![image](https://github.com/ArturSouto/G10/assets/80278821/fe553544-bc19-4e53-a22e-6ce0a0e92b8d)
 
 
+# JIRA SR2
+
+* QUADRO SPRINT
+![image](![image](https://github.com/ArturSouto/G10/assets/80278821/91c1892b-566f-473f-a952-49a41d4428cb)
+)
+
+
+
+* BACKLOG
+![image](![image](https://github.com/ArturSouto/G10/assets/80278821/9a124b49-cd00-4489-88e0-f1a7ff5d247b)
+)
 
 
 # Diagrama de Atividades
