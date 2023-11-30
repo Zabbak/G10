@@ -58,14 +58,14 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 # JIRA SR2
 
 * QUADRO SPRINT
-![image](![image](https://github.com/ArturSouto/G10/assets/80278821/91c1892b-566f-473f-a952-49a41d4428cb)
-)
+![image](https://github.com/ArturSouto/G10/assets/80278821/91c1892b-566f-473f-a952-49a41d4428cb)
+
 
 
 
 * BACKLOG
-![image](![image](https://github.com/ArturSouto/G10/assets/80278821/9a124b49-cd00-4489-88e0-f1a7ff5d247b)
-)
+![image](https://github.com/ArturSouto/G10/assets/80278821/9a124b49-cd00-4489-88e0-f1a7ff5d247b)
+
 
 
 # Diagrama de Atividades
