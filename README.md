@@ -40,7 +40,7 @@ Durante o tempo do SR1 para o “Gotas de Flor com Amor”, decidimos implementa
 
 * #### [Protótipo no Figma (Em desenvolvimento)](https://www.figma.com/file/HdLvW4y68knUPL7sloAn6j/Untitled?type=design&node-id=0%3A1&mode=design&t=gQHpecppc5uG7SSK-1)
 * #### [Diagrama de atividades no Miro](https://miro.com/app/board/uXjVNaIl8W4=/?share_link_id=483345732330)
-* #### [Azure](https://projetosg10.azurewebsites.net/)
+* #### [Azure](https://jardimdogotas.azurewebsites.net)
 * #### [Screencast (LO-FI)](https://www.youtube.com/watch?v=k4ZHAhGwqZ4&ab_channel=MarceloCavalcanti)
 * #### [Screencast (SITE)](https://www.youtube.com/watch?v=mJr05934_hI&ab_channel=MarceloCavalcanti)
 * #### [Protótipo de media Figma](https://www.figma.com/file/HKe95nqr5JNgQRa7anqesd/Wireframe-Baixa-fidelidade?type=design&node-id=0-1&mode=design&t=aohxbTWciD9Hi2yd-0)
